@@ -1,5 +1,5 @@
 # ADM-HW1
-In this file you can find two "*.py" files and two pdf which cointains respectivly the first and second part of the first homework.
+In this repository you can find two "*.py" files and two pdfs, which cointains respectively the first and second part of the first homework.
 All exercises were solved.
 
 ## Take a look at
