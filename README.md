@@ -3,7 +3,7 @@ In this repository you can find two "*.py" files and two pdfs, which cointains r
 
 All exercises were solved.
 
-In the ".py" files each section is divided through commented titles while in the pdfs all new section start with the first column of HackerrankSubmission (Problem, Language, Score)
+In the ".py" files each section is divided through commented titles while in the pdfs all new sections start with the first row of HackerrankSubmission table (Problem, Language, Score)
 
 ## Take a look at
 - [`READ.md`](https://github.com/marinazanoni/ADM-HW1/edit/main/README.md): What's inside the folder
