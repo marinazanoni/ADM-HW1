@@ -1,5 +1,5 @@
 # ADM-HW1
-The HW1final_adm that is the file python with Problems 1 and 2 solved.
+In the pdfs and py files, Problems 1 and 2 were solved.
 Problem 1
 
     Introduction (all – total: 7)
@@ -24,5 +24,3 @@ Problem 2
     Recursive Digit Sum
     Insertion Sort - Part 1
     Insertion Sort - Part 2
-
-Finally, there is the pdf of all the submissions in ['Hackerrank'](https://github.com/marinazanoni/ADM-HW1/blob/main/PART2Submissions%20Zanoni.pdf)
