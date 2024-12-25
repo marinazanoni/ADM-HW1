@@ -1,13 +1,28 @@
 # ADM-HW1
-In this repository you can find two "*.py" files and two pdfs, which cointain respectively the first and second part of the homework.
+The HW1final_adm that is the file python with Problems 1 and 2 solved.
+Problem 1
 
-All exercises were solved.
+    Introduction (all – total: 7)
+    Data types (all – total: 6)
+    Strings (all – total)
+    Sets (all – total: 13)
+    Collections (all – total: 8)
+    Date and Time (all – total: 2)
+    Exceptions (all)
+    Built-ins (all)
+    Python Functionals (all)
+    Regex and Parsing challenges (all – total: 17)
+    XML (all – total: 2)
+    Closures and Decorations (all – total: 2)
+    Numpy (all – total: 15)
 
-In the ".py" files each section is divided through commented titles. Together with the title the number of the exercises per section are shown. In the pdfs all new sections start with the first row of HackerrankSubmission table (Problem, Language, Score). The smaller sections were merged together in a pdf's section.
+Problem 2
 
-## Take a look at
-- [`READ.md`](https://github.com/marinazanoni/ADM-HW1/edit/main/README.md): What's inside the folder
-- [`Part1.py`](https://github.com/marinazanoni/ADM-HW1/blob/main/submissionHM1-15-10-Zanoni.py): Problems' code Part 1
-- [`Part2.py`](https://github.com/marinazanoni/ADM-HW1/blob/main/Part2-HMW1-Zanoni.py): Problems' code Part 2
-- ['Part1print.pdf'](https://github.com/marinazanoni/ADM-HW1/blob/main/HM1_zanoni.pdf): Print of the submission of the first part
-- ['Part2print.pdf'](https://github.com/marinazanoni/ADM-HW1/blob/main/PART2Submissions%20Zanoni.pdf): Print of the submission of the second part
+    Birthday Cake Candles
+    Number Line Jumps
+    Viral Advertising
+    Recursive Digit Sum
+    Insertion Sort - Part 1
+    Insertion Sort - Part 2
+
+Finally, there is the pdf of all the submissions in ['Hackerrank'](https://github.com/marinazanoni/ADM-HW1/blob/main/PART2Submissions%20Zanoni.pdf)
